@@ -1,2 +1,2 @@
 Need to download as the code from colab: https://github.com/ericsun153/dsc190_course_project/blob/main/Jailbreak_LLM_Reproduction.ipynb
-Or use pdf version: 
+Or use pdf version: https://github.com/ericsun153/dsc190_course_project/blob/main/Jailbreak_LLM_Reproduction.pdf
